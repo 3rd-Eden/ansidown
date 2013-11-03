@@ -1,0 +1,20 @@
+{
+  "name": "ansidown",
+  "version": "0.0.0",
+  "description": "Transform Markdown in to terminal styled (ansi) output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ansi",
+    "markdown",
+    "terminal",
+    "colour"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "~0.6.2"
+  }
+}
