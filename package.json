@@ -1,6 +1,6 @@
 {
   "name": "ansidown",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform Markdown in to terminal styled (ansi) output",
   "main": "index.js",
   "bin": {
